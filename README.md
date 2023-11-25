@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jeffrin2005
-- 👀 I’m interested in competitive programming, LeetCode, Codeforces, and Python Django development.
+- 👀 I’m interested in competitive programming,LeetCode, Codeforces,Python Django development and penetration testing
 - 🌱 I’m currently learning Python and Django.
 - 💞️ I’m looking to collaborate on open source projects and aiming for Google Summer of Code 2024.
 - 📫 How to reach me: Discord -  Jeffrin2005  
