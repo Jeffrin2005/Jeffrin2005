@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeffrin Jojo
 - 👀 I’m interested in competitive programming,penetration testing,Python Django development
 - 🌱 I’m currently learning Python and Django.
-- 💞️ I’m looking to collaborate on open source projects and aiming for Google Summer of Code 2024.
+- 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me: Discord -  Jeffrin2005  
   
 [![](https://raw.githubusercontent.com/Jeffrin2005/TESTT/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
