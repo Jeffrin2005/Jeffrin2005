@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jeffrin Jojo
-- 👀 I’m interested in competitive programming,penetration testing,Python Django development
-- 🌱 I’m currently learning Python and Django.
+- 👀 I’m interested in penetration testing,competitive programming,Python Django development
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me: Discord -  Jeffrin2005  
   
