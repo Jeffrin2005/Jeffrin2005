@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeffrin Jojo</h1>
 <h3 align="center">
-  👀 I’m interested in <span style="font-weight: bold; color: #e63946;">penetration testing</span>, 
-  <span style="font-weight: bold; color: #f1faee;">competitive programming</span>, 
+  👀 I’m interested in <span style="font-weight: bold; color: #e63946;">Penetration Testing</span>, 
+  <span style="font-weight: bold; color: #f1faee;">Competitive Programming</span>, 
   <span style="font-weight: bold; color: #a8dadc;">Python Django development</span>
 </h3>
 
