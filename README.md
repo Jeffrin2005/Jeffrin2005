@@ -41,4 +41,5 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
  <a href="https://www.openwall.com/" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.1211685854.1692/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="john_the_ripper" width="40" height="40"/></a>
+
 </p>
