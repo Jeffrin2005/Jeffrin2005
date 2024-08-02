@@ -24,7 +24,6 @@
   <a href="https://www.leetcode.com/jeffrin2005" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeffrin2005" height="30" width="40" /></a>
   <a href="https://discord.gg/https://discord.com/channels/@jeffrin2005" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@jeffrin2005" height="30" width="40" /></a>
 </p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -41,5 +40,5 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
  <a href="https://www.openwall.com/" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.1211685854.1692/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="john_the_ripper" width="40" height="40"/></a>
-
+   <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/026/763/723/original/nmap-network-mapper-concept-illustration-free-vector.jpg" alt="nmap" width="40" height="40"/></a>
 </p>
