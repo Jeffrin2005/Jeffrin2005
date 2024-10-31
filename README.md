@@ -44,3 +44,8 @@
      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tail wind" width="40" height="40"/></a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40"/></a>
 </p>
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+</div>
