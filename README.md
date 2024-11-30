@@ -2,13 +2,13 @@
 <h3 align="center">
   👀 I’m interested in <span style="font-weight: bold; color: #e63946;">Penetration Testing</span>, 
   <span style="font-weight: bold; color: #f1faee;">Competitive Programming</span>, 
-  <span style="font-weight: bold; color: #a8dadc;">Python ,TypeScript , Django development</span>
+  <span style="font-weight: bold; color: #a8dadc;">Python  Django development</span>
 </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeffrin2005&label=Profile%20views&color=0e75b6&style=flat" alt="jeffrin2005" /> </p>
 
 <ul align="center">
-  <li>🌱 I’m currently learning <strong>Full Stack Development, Python Django development</strong></li>
+  <li>🌱 I’m currently learning <strong>Full Stack Development, TypeScript, Python Django development</strong></li>
   <li> 💞️ I’m looking to collaborate on <strong>open source projects</strong></li>
   <li>📫 How to reach me <strong>jeffrinjojo1@gmail.com</strong></li>
 </ul>
