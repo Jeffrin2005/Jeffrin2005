@@ -39,7 +39,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
  <a href="https://www.openwall.com/" target="_blank" rel="noreferrer"><img src="https://ih1.redbubble.net/image.1211685854.1692/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="john_the_ripper" width="40" height="40"/></a>
-   <a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/026/763/723/original/nmap-network-mapper-concept-illustration-free-vector.jpg" alt="nmap" width="40" height="40"/></a>
      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tail wind" width="40" height="40"/></a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40"/></a>
 </p>
